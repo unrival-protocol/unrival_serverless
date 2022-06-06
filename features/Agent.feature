@@ -13,7 +13,7 @@ Feature: Agent
     And this domain has no parents
     And "I will keep any promise I make." is a promise made by this domain
     And "If one of my ancestors makes a promise, then I also make that promise." is a promise made by this domain
-    
+
     Examples: 
       | name       | promise                                                    |
       | name       | "I promise to have a name."                                |

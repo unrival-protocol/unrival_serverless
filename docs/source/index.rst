@@ -3,10 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to unrival_serverless's documentation!
+Unrival: Directed Collective Intelligence
 ==============================================
 
 
+These docs are auto-generated from code comments in the Unrival sourcecode.
+
+.. automodule:: unrival_serverless.main
+    :members:
+.. automodule:: unrival_serverless.unrival_serverless
+    :members:
 
 .. toctree::
    :maxdepth: 2

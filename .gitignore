@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 ccloud
-
+.DS_Store
